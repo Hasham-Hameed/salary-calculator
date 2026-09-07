@@ -3,8 +3,8 @@
 Calculates an employee's gross salary from a basic salary plus house and
 medical allowance percentages — built two ways:
 
-- **`salary_calculator.py`** — command-line version
-- **`index.html` / `style.css` / `script.js`** — a payslip-styled web front end
+salary_calculator.py — command-line version
+index.html` / `style.css` / `script.js`— a payslip-styled web front end
 
 Live demo: **`https://<your-username>.github.io/salary-calculator/`**
 *(works once GitHub Pages is enabled — see below)*
