@@ -9,11 +9,6 @@ index.html` / `style.css` / `script.js`— a payslip-styled web front end
 Live demo: https://hasham-hameed.github.io/salary-calculator/
 
 
-![status](https://img.shields.io/badge/status-active-brightgreen)
-![license](https://img.shields.io/badge/license-MIT-blue)
-
----
-
 ## ✨ Features
 
 - Enter basic salary, house allowance %, and medical allowance %
@@ -40,7 +35,7 @@ python salary_calculator.py
 
 ## 🗂️ Project structure
 
-```
+
 salary-calculator/
 ├── index.html            # front end markup
 ├── style.css              # front end styling
@@ -49,7 +44,7 @@ salary-calculator/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-```
+
 
 ## 🌐 Hosting it on GitHub Pages
 
