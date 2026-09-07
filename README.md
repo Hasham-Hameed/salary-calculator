@@ -35,7 +35,7 @@ python salary_calculator.py
 
 ## 🗂️ Project structure
 
-
+```
 salary-calculator/
 ├── index.html            # front end markup
 ├── style.css              # front end styling
@@ -44,6 +44,8 @@ salary-calculator/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
+
 
 
 ## 🌐 Hosting it on GitHub Pages
