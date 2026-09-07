@@ -6,8 +6,8 @@ medical allowance percentages — built two ways:
 salary_calculator.py — command-line version
 index.html` / `style.css` / `script.js`— a payslip-styled web front end
 
-Live demo: **`https://<your-username>.github.io/salary-calculator/`**
-*(works once GitHub Pages is enabled — see below)*
+Live demo: https://hasham-hameed.github.io/salary-calculator/
+
 
 ![status](https://img.shields.io/badge/status-active-brightgreen)
 ![license](https://img.shields.io/badge/license-MIT-blue)
