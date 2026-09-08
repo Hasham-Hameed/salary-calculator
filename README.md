@@ -63,3 +63,5 @@ salary-calculator/
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE).
+
+Built for learning.............................
